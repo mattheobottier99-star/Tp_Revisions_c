@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ex1.c/Ex1.c.vcxproj" />
+  <Project Path="Ex2.c/Ex2.c.vcxproj" />
+  <Project Path="Ex3.c/Ex3.c.vcxproj" />
+  <Project Path="Ex4.c/Ex4.c.vcxproj" />
+  <Project Path="Ex5.c/Ex5.c.vcxproj" />
+  <Project Path="Ex6.c/Ex6.c.vcxproj" />
+  <Project Path="Ex7.c/Ex7.c.vcxproj" />
+  <Project Path="Programme Factorielle/Programme Factorielle.vcxproj" />
+  <Project Path="Programme ValeurAbsolue.c/Programme ValeurAbsolue.c.vcxproj" />
+</Solution>
