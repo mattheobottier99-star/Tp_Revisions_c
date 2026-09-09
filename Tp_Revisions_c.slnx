@@ -3,13 +3,13 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Ex1.c/Ex1.c.vcxproj" />
-  <Project Path="Ex2.c/Ex2.c.vcxproj" />
-  <Project Path="Ex3.c/Ex3.c.vcxproj" />
-  <Project Path="Ex4.c/Ex4.c.vcxproj" />
-  <Project Path="Ex5.c/Ex5.c.vcxproj" />
-  <Project Path="Ex6.c/Ex6.c.vcxproj" />
-  <Project Path="Ex7.c/Ex7.c.vcxproj" />
-  <Project Path="Programme Factorielle/Programme Factorielle.vcxproj" />
-  <Project Path="Programme ValeurAbsolue.c/Programme ValeurAbsolue.c.vcxproj" />
+  <Project Path="Ex1.c/Ex1.c.vcxproj" Id="f2aa28da-84ee-4ba3-8155-14483202b656" />
+  <Project Path="Ex2.c/Ex2.c.vcxproj" Id="9bbe1293-cc44-4ccd-bb92-361970644450" />
+  <Project Path="Ex3.c/Ex3.c.vcxproj" Id="33b3e7a4-160d-4320-bd56-8d1907c76a5a" />
+  <Project Path="Ex4.c/Ex4.c.vcxproj" Id="d058a3c3-2712-4026-9796-638d391df348" />
+  <Project Path="Ex5.c/Ex5.c.vcxproj" Id="e50de397-267f-482f-b5ae-eb84de9cc14d" />
+  <Project Path="Ex6.c/Ex6.c.vcxproj" Id="01e50c3f-adf0-45e1-8ff3-713943ad4898" />
+  <Project Path="Ex7.c/Ex7.c.vcxproj" Id="f489720b-35b3-417e-92eb-80f78380ddde" />
+  <Project Path="Programme Factorielle/Programme Factorielle.vcxproj" Id="454845d1-18cd-4ab1-8a2a-a8d8d68fbc7c" />
+  <Project Path="Programme ValeurAbsolue.c/Programme ValeurAbsolue.c.vcxproj" Id="1d79f961-5555-4154-8aed-986e1bf158e8" />
 </Solution>
